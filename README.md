@@ -7,4 +7,4 @@ Simple Hangman game, using Python.
 
 ## Note
 - data.txt contains 3000 common english words. You can changed it, maintaining the same name.
-- Script only tested on Python Python 3.8.9
+- Script only tested on Python 3.8.9
